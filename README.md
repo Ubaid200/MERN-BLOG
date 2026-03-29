@@ -123,3 +123,12 @@ The application is fully responsive and works smoothly on **mobile, tablet, and 
 ## 📜 License
 
 This project is open source and available for learning and development purposes.
+
+If you like this project, **give it a star ⭐ on GitHub
+
+![Authentication Screenshot](img/1.PNG)
+![Authentication Screenshot](img/2.PNG)
+![Authentication Screenshot](img/3.PNG)
+![Authentication Screenshot](img/4.PNG)
+![Authentication Screenshot](img/5.PNG)
+![Authentication Screenshot](img/6.PNG)
